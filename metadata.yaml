@@ -1,6 +1,9 @@
 _repo: Mikaeli-Kohlhas-b-Saksalainen-tapakomedia-Lutheruksen-ajoilta_73372
 _version: 0.1.0
 alternative_title: Michael Kohlhaas. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kleist, Heinrich von
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Heinrich_von_Kleist
     - https://de.wikipedia.org/wiki/Heinrich_von_Kleist
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73372#Mikaeli-Kohlhas-b-Saksalainen-tapakomedia-Lutheruksen-ajoilta
 gutenberg_issued: '2024-04-10'
 gutenberg_type: Text
 identifiers:
